@@ -1,0 +1,10 @@
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.Form2.resources
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\etaln\Documents\Programacion\c#\Control de flujo\Evaluacion\Ejercicio2\obj\Debug\Ejercicio2.pdb
